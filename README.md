@@ -12,9 +12,12 @@ To find out more about my thinking process behing these projects, check out my p
   - [Emotion Detection](https://github.com/tanupunjani/Emotion-Detection) - 3-way polarity (positive, negative, neutral) classification system for sentences, without using NLTK's sentiment analysis engine. 
 
 - ## Data Analysis and Visualization
-  - [Clothing Fit Dataset for Size Recommendation](https://github.com/tanupunjani/data-science-portfolio/blob/main/EDA%20and%20FE.py) -  Exploratory Analysis and Feature engineering of the modcloth data preprocessing dataset using Pandas, Numpy and scikit learn.
-  - [Chipotle sales](https://github.com/tanupunjani/data-science-portfolio/blob/main/Getting-to-know-your-data.py) - Understanding the relationship between the data columns and analysing them with Pandas and Numpy.
+  - [Clothing Fit Dataset for Size Recommendation](https://github.com/tanupunjani/data-science-portfolio/blob/main/EDA%20and%20FE.ipynb) -  Exploratory Analysis and Feature engineering of the modcloth data preprocessing dataset using Pandas, Numpy and scikit learn.
+  - [Chipotle sales](https://github.com/tanupunjani/data-science-portfolio/blob/main/Getting-to-know-your-data.ipynb) - Understanding the relationship between the data columns and analysing them with Pandas and Numpy.
   - Covid dataset - Data analysis , visualization of cardio_alco, cardio_base and covid_data.
 
 
-
+- ## Micro Projects - Deep Learning with Tensorflow
+  - [Supervise Learning: Linear regression](https://github.com/tanupunjani/Deep-learning/blob/main/01_neural_network_regression_with_tensorflow.ipynb) 
+  - [Supervised Learning : Classification](https://github.com/tanupunjani/Deep-learning/blob/main/02_NN_classification.ipynb) 
+  - [Convolutional Neural Network](https://github.com/tanupunjani/Deep-learning/blob/main/Transfer_learning_with_tensorflow_scaling_up.ipynb)
