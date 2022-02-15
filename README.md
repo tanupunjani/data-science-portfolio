@@ -12,7 +12,7 @@ To find out more about my thinking process behing these projects, check out my p
   - [Emotion Detection](https://github.com/tanupunjani/Emotion-Detection) - 3-way polarity (positive, negative, neutral) classification system for sentences, without using NLTK's sentiment analysis engine. 
 
 - ## Computer Vision
-  - [Hand Tracking with OpenCV](https://github.com/tanupunjani/hand-tracking-with-openCV): 
+  - [Hand Tracking with OpenCV](https://github.com/tanupunjani/hand-tracking-with-openCV) : Using openCV, mediapipe and pycharm to track the hands gesture.  
 - ## Data Analysis and Visualization
   - [Clothing Fit Dataset for Size Recommendation](https://github.com/tanupunjani/data-science-portfolio/blob/main/EDA%20and%20FE.ipynb) -  Exploratory Analysis and Feature engineering of the modcloth data preprocessing dataset using Pandas, Numpy and scikit learn.
   - [Chipotle sales](https://github.com/tanupunjani/data-science-portfolio/blob/main/Getting-to-know-your-data.ipynb) - Understanding the relationship between the data columns and analysing them with Pandas and Numpy.
