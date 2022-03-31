@@ -10,6 +10,7 @@ To find out more about my thinking process behing these projects, check out my p
 
 - ## Natural Language Processing
   - [Emotion Detection](https://github.com/tanupunjani/Emotion-Detection) - 3-way polarity (positive, negative, neutral) classification system for sentences, without using NLTK's sentiment analysis engine. 
+  - [Multiclass classification for a Pet Insurance Company](https://www.kaggle.com/code/tanvipunjani/multiclass-classification-pet-insurance-company) - Performing multiclass classificatin and using NLP to vectorize the features in order to improve accuracy upto 75%.
 
 - ## Computer Vision
   - [Hand Tracking with OpenCV](https://github.com/tanupunjani/hand-tracking-with-openCV) : Using openCV, mediapipe and pycharm to track the hands gesture.  
