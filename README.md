@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. These are presented in the form of iPython Notebooks. 
 
-To find out more about my thinking process behing these projects, check out my personal Data science and Machine learning blog here. 
+To find out more about my thinking process behing these projects, check out my personal Data science and Machine learning blog here(https://medium.com/@tanvipunjani). 
 
 # Contents
 - ## Machine learning
