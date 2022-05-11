@@ -19,6 +19,8 @@ To find out more about my thinking process behind these projects, check out my p
   - [Chipotle sales](https://github.com/tanupunjani/data-science-portfolio/blob/main/Getting-to-know-your-data.ipynb) - Understanding the relationship between the data columns and analysing them.
   - Covid dataset - Data analysis , visualization of cardio_alco, cardio_base and covid_data.
 
+- ## Time series Analysis
+  - [Hospital equipments transport requests analysis](https://github.com/tanupunjani/time-series-analysis) - Time series analysis of the equipments that are requested by different hospital departments over a period of time.
 
 - ## Micro Projects - Deep Learning with Tensorflow
   - [Supervise Learning: Linear regression](https://github.com/tanupunjani/Deep-learning/blob/main/01_neural_network_regression_with_tensorflow.ipynb) 
